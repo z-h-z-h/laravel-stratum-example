@@ -34,7 +34,7 @@
         </div>
     </div>
 
-    <div class="card">
+    <div class="card mb-5">
         <div class="card-body">
             <h3 class="card-title">Last 10 transactions</h3>
             @if($history)
